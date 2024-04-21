@@ -20,3 +20,6 @@ We the team ProbBusters , are here to solve the problem , ever wondered , how di
 # Video Link
 
 [https://drive.google.com/file/d/1Z1aqtHYbQ-cbglcyY4o4EefLfuvCNFRg/view?usp=sharing]
+
+# PPT Link
+[https://docs.google.com/presentation/d/1ZSFuH3vuhR4hYJDrH29paA8F3W4OSQS8PQc5FwBP8_M/edit?usp=sharing]
